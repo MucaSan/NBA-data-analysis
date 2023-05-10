@@ -1,0 +1,25 @@
+Main idea of the project is to set what I learned during the 
+Python course, using the main data analysis libraries.
+
+It'll be my first Data Science project, on a beginner level.
+
+To state the beginning of this small project, I should list the
+libraries which will be used during the project.
+They'll be:
+-Numpy --> For analysing and doing complex arithmetic operations
+-Pandas--> Extracting data from the array/dataset/dataframe
+-Matplotlib--> Creating plots with a given pattern, such as a 
+function.
+-Seaborn--> Creating complex plots, to analyze further
+the data, and make conclusions.
+
+The data used was extracted from <https://www.kaggle.com/code/drfrank/basketball-players-stats-data-visualisation/data>
+
+From the dataframe, we'll only analyze the information about the
+NBA league, from the year 2010 to 2019.
+
+Sections that will be analyzed, and why it could happen:
+
+1. Average height and weight (start)
+2. Relation between Height x Score/Height x Block/Height x Steals/Weight x Block/Turn-Overs(failures) x Score/Team x Assists/Height x Rebound
+3. Correlation of variables, comparing all of them to the score of maximum and minimum score years.
